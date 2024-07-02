@@ -1,0 +1,13 @@
+body {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.bg-secondary {
+  background-color: #ffe3bf36 !important;
+}
+.bg-primary {
+  background-color: #c37800 !important;
+}
+.custom-box {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
